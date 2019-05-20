@@ -1,3 +1,59 @@
+@import "themeVariables.scss";
+/*random sakura colours: #eda0cd; #c2d7e9; #923;#857453*/
 body{
   margin: 0;
+}
+.App{
+  font-family: sans-serif;
+  @supports (display: grid){
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "details details details details"
+      "body body body body"
+      "bar bar bar bar"
+      "nav nav nav nav";
+  }
+}
+.main{
+  @supports (display: grid){
+    grid-area: body;
+  }
+  padding: 0.5em;
+  text-align: center;
+}
+
+
+@media (min-width: 40em) {
+  .App{
+    @supports (display: grid){
+      grid-template-areas: 
+        "nav nav nav details"
+        "bar body body body"
+        "bar body body body"
+        "bar body body body";
+    }
+  }
+  .details{
+    flex-direction: column;
+  }
+}
+@media (min-width: 48em) {
+  .App{
+    @supports (display: grid){
+      grid-template-areas: 
+        "nav nav nav details"
+        "bar body body details"
+        "bar body body details"
+        "bar body body details";
+    }
+  }
+}
+
+.body-sak {
+  background-color: $sak-bg;
+}
+.body-vb {
+  background-color: $vb-bg;
 }

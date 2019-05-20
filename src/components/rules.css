@@ -1,0 +1,5 @@
+/* Rules styles */
+.rules-section li {
+  text-align: left;
+  margin: 0.8em;
+}

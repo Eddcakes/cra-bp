@@ -1,0 +1,135 @@
+/*Nav styles */
+@import "../../themeVariables.scss";
+/*sticky only works if content is bigger than the page!*/
+.nav-bar{
+  position: sticky;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  @supports (display: grid){
+    grid-area: nav;
+  }
+  display: flex;
+}
+.nav-bar nav{
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.logo-svg{
+  flex-grow: 0;
+}
+.nav-item{
+  padding: 0.5em;
+  flex-grow: 1;
+}
+@media (min-width: 40em) {
+  .nav-bar{
+    position: static;
+  }
+}
+@media (min-width: 48em) {
+
+}
+/*
+.nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3rem;
+}
+.nav-div {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  border-bottom: solid 1px;
+}
+.nav-logo {
+  margin: 1rem;
+  text-decoration: none;
+}
+.toolbar-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.nav-li {
+  border-left: 1px solid;
+  line-height: 0.8rem;
+}
+.nav-link {
+  text-decoration: none;
+  display: inline-flex;
+  padding: 1rem;
+  border-bottom: 0.308rem solid transparent;
+}
+.nav-search{
+
+}
+*/
+/*Sakura Nav theme: */
+.nav-bar-sak {
+  background-color: $sak-bg-dark;
+}
+.nav-div-sak {
+  border-color: $sak-border-secondary;
+}
+.nav-logo-sak {
+  color: $sak-text;
+}
+.nav-li-sak {
+  border-color: $sak-border-secondary;
+}
+.nav-link-sak {
+  color: $sak-text;
+}
+.nav-link-sak:hover {
+  border-color: $sak-border-primary;
+}
+/* vb theme */
+.nav-bar-vb {
+  background-color: $vb-bg-dark;
+}
+.nav-div-vb {
+  border-color: $vb-border-secondary;
+}
+.nav-logo-vb {
+  color: $vb-text;
+}
+.nav-li-vb {
+  border-color: $vb-border-secondary;
+}
+.nav-link-vb {
+  color: $vb-text;
+}
+.nav-link-vb:hover {
+  border-color: $vb-border-primary;
+}
+/* freestyle*/
+/*
+.nav-div {
+  display: inline-flex;
+  border-bottom: solid 1px #ccc;
+}
+
+.nav-div ul {
+  list-style: none;
+}
+
+.nav-div li {
+  border-left: 1px solid #ccc;
+  border-bottom: 0.308em solid transparent;
+  padding: 1em;
+
+  float: left;
+  height: 1em;
+  width: 2em;
+}
+
+.nav-li:hover {
+  border-bottom: 0.308em solid #923;
+  padding-bottom: 1;
+}
+*/
