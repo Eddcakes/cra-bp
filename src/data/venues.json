@@ -43,5 +43,14 @@
     "pitchSize": 0,
     "location": 0,
     "houseRules": []
+  },
+  {
+    "ID": 6,
+    "name": "Jordons",
+    "indoor": true,
+    "est": "2019",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": []
   }
 ]

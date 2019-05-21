@@ -14,6 +14,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -32,6 +33,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -50,6 +52,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -68,6 +71,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -86,6 +90,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -104,6 +109,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -122,6 +128,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -140,6 +147,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -158,6 +166,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -176,6 +185,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group1",
     "notes": ""
   },
@@ -194,6 +204,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -212,6 +223,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -230,6 +242,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -248,6 +261,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -266,6 +280,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -284,6 +299,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -302,6 +318,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -320,6 +337,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -338,6 +356,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -356,6 +375,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "group2",
     "notes": ""
   },
@@ -374,6 +394,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "quarter1",
     "notes": ""
   },
@@ -392,6 +413,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "quarter2",
     "notes": ""
   },
@@ -410,6 +432,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "quarter3",
     "notes": ""
   },
@@ -428,6 +451,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "quarter4",
     "notes": "Forfeit"
   },
@@ -446,6 +470,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "semi1",
     "notes": ""
   },
@@ -464,6 +489,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "semi2",
     "notes": ""
   },
@@ -482,6 +508,7 @@
     "date": "2016",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 1,
     "stage": "final",
     "notes": "FINAL"
   },
@@ -500,6 +527,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group1",
     "notes": ""
   },
@@ -518,6 +546,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group1",
     "notes": ""
   },
@@ -536,6 +565,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group1",
     "notes": ""
   },
@@ -554,6 +584,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group1",
     "notes": ""
   },
@@ -572,6 +603,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group1",
     "notes": ""
   },
@@ -590,6 +622,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group1",
     "notes": ""
   },
@@ -608,6 +641,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group2",
     "notes": ""
   },
@@ -626,6 +660,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group2",
     "notes": ""
   },
@@ -644,6 +679,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group2",
     "notes": ""
   },
@@ -662,6 +698,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group2",
     "notes": ""
   },
@@ -680,6 +717,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group2",
     "notes": ""
   },
@@ -698,6 +736,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group2",
     "notes": ""
   },
@@ -716,6 +755,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group3",
     "notes": ""
   },
@@ -734,6 +774,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group3",
     "notes": ""
   },
@@ -752,6 +793,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group3",
     "notes": ""
   },
@@ -770,6 +812,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group3",
     "notes": ""
   },
@@ -788,6 +831,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group3",
     "notes": ""
   },
@@ -806,6 +850,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "group3",
     "notes": ""
   },
@@ -824,6 +869,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "quarter1",
     "notes": ""
   },
@@ -842,6 +888,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "quarter2",
     "notes": ""
   },
@@ -860,6 +907,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "quarter3",
     "notes": "Forfeit"
   },
@@ -878,6 +926,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "quarter4",
     "notes": ""
   },
@@ -896,6 +945,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "semi1",
     "notes": ""
   },
@@ -914,6 +964,7 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "semi2",
     "notes": "LOL, Jacko "
   },
@@ -932,8 +983,9 @@
     "date": "2017",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 2,
     "stage": "final",
-    "notes": ""
+    "notes": "FINAL"
   },
   {
     "gameID": "201801",
@@ -950,6 +1002,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -968,6 +1021,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -986,6 +1040,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1004,6 +1059,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1022,6 +1078,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1040,6 +1097,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1058,6 +1116,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1076,6 +1135,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1094,6 +1154,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1112,6 +1173,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group1",
     "notes": ""
   },
@@ -1130,6 +1192,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1148,6 +1211,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1166,6 +1230,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1184,6 +1249,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1202,6 +1268,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1220,6 +1287,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1238,6 +1306,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1256,6 +1325,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1274,6 +1344,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": "Forfeit"
   },
@@ -1292,6 +1363,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "group2",
     "notes": ""
   },
@@ -1310,6 +1382,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "quarter1",
     "notes": ""
   },
@@ -1328,6 +1401,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "quarter2",
     "notes": ""
   },
@@ -1346,6 +1420,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "quarter3",
     "notes": "Forfeit"
   },
@@ -1364,6 +1439,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "quarter4",
     "notes": ""
   },
@@ -1382,6 +1458,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "semi1",
     "notes": ""
   },
@@ -1400,6 +1477,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "semi2",
     "notes": "Forfeit"
   },
@@ -1418,6 +1496,7 @@
     "date": "2018",
     "venue": "Kingfisher Park",
     "tournament": true,
+    "tournament_id": 3,
     "stage": "final",
     "notes": "FINAL"
   }

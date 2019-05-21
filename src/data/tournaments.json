@@ -1,0 +1,29 @@
+[
+  {
+    "_id": 1,
+    "event": "Summer Beer Pong tournament",
+    "date": "2016",
+    "venue_id": 1,
+    "games": 0,
+    "winner_id": 1,
+    "runnerUp_id": 5
+  },
+  {
+    "_id": 2,
+    "event": "Summer Beer Pong tournament",
+    "date": "2017",
+    "venue_id": 1,
+    "games": 0,
+    "winner_id": 10,
+    "runnerUp_id": 2
+  },
+  {
+    "_id": 3,
+    "event": "Summer Beer Pong tournament",
+    "date": "2018",
+    "venue_id": 1,
+    "games": 0,
+    "winner_id": 16,
+    "runnerUp_id": 1
+  }
+]
