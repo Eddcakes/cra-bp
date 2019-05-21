@@ -12,3 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### notes
 Would like to look at smash.gg, challonge would either be suitable to go with tournament feature?
+
+Going with challonge as smash.gg REQUIRES a location which I do not like
