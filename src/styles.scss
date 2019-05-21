@@ -7,13 +7,13 @@ body{
   font-family: sans-serif;
   @supports (display: grid){
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto;
     grid-template-areas: 
-      "details details details details"
-      "body body body body"
-      "bar bar bar bar"
-      "nav nav nav nav";
+      "details details details details details details"
+      "body body body body body body"
+      "bar bar bar bar bar bar"
+      "nav nav nav nav nav nav";
   }
 }
 .main{
@@ -29,10 +29,10 @@ body{
   .App{
     @supports (display: grid){
       grid-template-areas: 
-        "nav nav nav details"
-        "bar body body body"
-        "bar body body body"
-        "bar body body body";
+        "nav nav nav nav details details"
+        "bar body body body body body"
+        "bar body body body body body"
+        "bar body body body body body";
     }
   }
   .details{
@@ -43,10 +43,10 @@ body{
   .App{
     @supports (display: grid){
       grid-template-areas: 
-        "nav nav nav details"
-        "bar body body details"
-        "bar body body details"
-        "bar body body details";
+        "nav nav nav nav nav details"
+        "bar body body body body details"
+        "bar body body body body details"
+        "bar body body body body details";
     }
   }
 }

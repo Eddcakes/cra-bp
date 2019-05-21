@@ -8,7 +8,7 @@ function Menu() {
       {tcConsumer => {
         return (
           <div className={`bar bar-${tcConsumer.theme.current}`}>
-            <div>Menu item</div>
+            <div>Menu should be the overflow for navigation </div>
             <div>Menu item</div>
             <div>Menu item</div>
           </div>

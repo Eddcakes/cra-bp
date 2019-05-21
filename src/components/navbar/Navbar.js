@@ -50,10 +50,10 @@ function Navbar(props) {
               </div>
               <div className={`nav-item nav-li-${tcConsumer.theme.current}`}>
                 <NavLink
-                  to="/TestPage"
+                  to="/Forms"
                   className={`nav-link nav-link-${tcConsumer.theme.current}`}
                 >
-                  TestPage
+                  Forms
                 </NavLink>
               </div>
             </nav>

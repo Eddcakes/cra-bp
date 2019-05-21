@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import Hero from "../components/Hero";
 
 const heroContainer = {
   display: "grid",
@@ -66,9 +65,3 @@ const Events = () => {
 };
 
 export default Events;
-
-const HeroContent = () => {};
-/* 
-set background image from selected content / if none available pick random
-
-*/

@@ -9,6 +9,7 @@ import Home from "./page/Home";
 import About from "./page/About";
 import Events from "./page/Events";
 import Stadiums from "./page/Stadiums";
+import Forms from "./page/Forms";
 import E404 from "./page/E404";
 import { TestPage } from "./page/TestPage";
 import Provider from "./Provider";
@@ -26,6 +27,7 @@ function App() {
               <Route path="/events" component={Events} />
               <Route path="/stadiums" component={Stadiums} />
               <Route path="/testPage" component={TestPage} />
+              <Route path="/forms" component={Forms} />
               <Route component={E404} />
             </Switch>
           </main>

@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import "./details.scss";
 import ThemeContext from "../../ThemeContext";
 function SearchBox() {
@@ -18,7 +19,14 @@ function Details() {
               </span>
             </div>
             <SearchBox />
-            <div>deet</div>
+            <div className={`nav-item nav-li-${tcConsumer.theme.current}`}>
+                <NavLink
+                  to="/TestPage"
+                  className={`nav-link nav-link-${tcConsumer.theme.current}`}
+                >
+                  TestPage
+                </NavLink>
+              </div>
             <div>deet</div>
           </div>
         );
