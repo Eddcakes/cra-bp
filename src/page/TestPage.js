@@ -10,8 +10,8 @@ function SelectTheme(props) {
       {tcConsumer => {
         return (
           <div>
-            <p>Theme Selected: {tcConsumer.theme.theme}</p>
-            <select onChange={tcConsumer.click}>
+            <p>Theme Selected: {tcConsumer.theme.current}</p>
+            <select defaultValue={tcConsumer.theme.current} onChange={tcConsumer.click}>
               <option value="sak"> Sakura Theme </option>
               <option value="vb"> Victoria Bitter Theme </option>
             </select>
