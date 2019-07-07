@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## cra-bp
 
+### demo
+WIP - started on codesandbox but no guarantee it is kept fully up to date: 
+https://codesandbox.io/s/943xxq4kno 
+
+
 ### current tasks
 - [ ] add form to create new match
 - [ ] add form to create new venue
