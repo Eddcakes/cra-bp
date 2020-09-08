@@ -1,5 +1,7 @@
 import React, {Fragment} from "react";
 import Match from "../forms/Match"
+import Bracket from "../components/bracket/Bracket"
+
 function Forms(){
   return(
     <Fragment>
@@ -12,6 +14,10 @@ function Forms(){
       <div >
         New venue form
       </div>
+      <div>
+        Bracket shit
+      </div>
+      <Bracket />
     </Fragment>
   )
 }
