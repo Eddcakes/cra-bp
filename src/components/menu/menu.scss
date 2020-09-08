@@ -1,0 +1,21 @@
+@import "../../themeVariables.scss";
+
+.bar{
+  padding: 0.5em;
+  @supports (display: grid){
+    grid-area: bar;
+  }
+}
+@media (min-width: 40em) {
+
+}
+@media (min-width: 48em) {
+
+}
+
+.bar-sak{
+  background-color: darken($sak-bg, 10%);
+}
+.bar-vb{
+  background-color: darken($vb-bg, 10%);
+}

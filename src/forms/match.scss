@@ -1,0 +1,24 @@
+@import "../themeVariables";
+.form{
+  padding: 1em 1em 1em 1em;
+}
+form{
+  padding: 1em;
+  background-color: #D3D3D3;
+  border-radius: 0.5em;
+}
+@media (min-width: 40em) {
+  .form{
+    padding: 1em 4em 1em 4em;
+  }
+}
+
+@media (min-width: 48em) {}
+
+/* theme styles */
+.form-sak{
+  background-color: darken($sak-bg, 20%)
+}
+.form-vb{
+  background-color: darken($vb-bg, 20%)
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "ID": 1,
+    "name": "Kingfisher Park",
+    "indoor": false,
+    "est": "2016",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": []
+  },
+  {
+    "ID": 2,
+    "name": "Wills",
+    "indoor": false,
+    "est": "2016",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": ["No blowback"]
+  },
+  {
+    "ID": 3,
+    "name": "Lewiss",
+    "indoor": false,
+    "est": "2016",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": []
+  },
+  {
+    "ID": 4,
+    "name": "LewisKitchen",
+    "indoor": true,
+    "est": "2017",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": []
+  },
+  {
+    "ID": 5,
+    "name": "Edds",
+    "indoor": true,
+    "est": "2018",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": []
+  },
+  {
+    "ID": 6,
+    "name": "Jordons",
+    "indoor": true,
+    "est": "2019",
+    "pitchSize": 0,
+    "location": 0,
+    "houseRules": []
+  }
+]

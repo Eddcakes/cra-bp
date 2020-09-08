@@ -1,0 +1,57 @@
+@import "../../themeVariables.scss";
+.details{
+  /*stay on top */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: top 0.3s;
+  padding: 0.5em;
+  display: flex;
+  flex-direction: row;
+  @supports (display: grid){
+    grid-area: details;
+  }
+
+}
+$circle-size: 2em;
+.icon {
+  background-color: yellow;
+  border: solid;
+  height: $circle-size;
+  width: $circle-size;
+  border-radius: $circle-size;
+  align-self: center;
+  margin-left: 5px;
+  overflow:hidden;
+  span{
+    font-size:1.7em;
+  }
+}
+.search{
+  margin: 0.3em;
+}
+::placeholder{
+  text-align: right;
+}
+:-ms-input-placeholder{
+  text-align: right;
+}
+
+@media (min-width: 40em) {
+  .details {
+    flex-direction: column;
+    width: auto;
+    position: static;
+  }
+
+}
+@media (min-width: 48em) {
+
+}
+
+.details-sak{
+  background-color: darken($sak-bg, 10%);
+}
+.details-vb{
+  background-color: darken($vb-bg, 10%);
+}

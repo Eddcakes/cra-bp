@@ -1,0 +1,1503 @@
+[
+  {
+    "gameID": "201601",
+    "player": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 3
+    },
+    "challenger": {
+      "actorID": 2,
+      "nick": "CuntWopper(Ryan)",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201602",
+    "player": {
+      "actorID": 3,
+      "nick": "Edd",
+      "cupsLeft": 3
+    },
+    "challenger": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201603",
+    "player": {
+      "actorID": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201604",
+    "player": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 2,
+      "nick": "CuntWopper",
+      "cupsLeft": 3
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201605",
+    "player": {
+      "actorID": 3,
+      "nick": "Edd",
+      "cupsLeft": 4
+    },
+    "challenger": {
+      "actorID": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201606",
+    "player": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 3
+    },
+    "challenger": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201607",
+    "player": {
+      "actorID": 2,
+      "nick": "CuntWopper",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 3,
+      "nick": "Edd",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201608",
+    "player": {
+      "actorID": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 3
+    },
+    "challenger": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201609",
+    "player": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "actorID": 3,
+      "nick": "Edd",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201610",
+    "player": {
+      "actorID": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 2,
+      "nick": "CuntWopper",
+      "cupsLeft": 3
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201611",
+    "player": {
+      "actorID": 8,
+      "nick": "James",
+      "cupsLeft": 3
+    },
+    "challenger": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201612",
+    "player": {
+      "actorID": 10,
+      "nick": "MJ",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 9,
+      "nick": "Kate/Lewis",
+      "cupsLeft": 1
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201613",
+    "player": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "actorID": 8,
+      "nick": "James",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201614",
+    "player": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 4
+    },
+    "challenger": {
+      "actorID": 10,
+      "nick": "MJ",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201615",
+    "player": {
+      "actorID": 9,
+      "nick": "Kate/Lewis",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 1
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201616",
+    "player": {
+      "actorID": 8,
+      "nick": "James",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 9,
+      "nick": "Kate/Lewis",
+      "cupsLeft": 1
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201617",
+    "player": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 1
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201618",
+    "player": {
+      "actorID": 10,
+      "nick": "MJ",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 8,
+      "nick": "James",
+      "cupsLeft": 3
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201619",
+    "player": {
+      "actorID": 9,
+      "nick": "Kate/Lewis",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 4
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201620",
+    "player": {
+      "actorID": 10,
+      "nick": "MJ",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201621",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "id": 9,
+      "nick": "Kate/Lewis",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "quarter1",
+    "notes": ""
+  },
+  {
+    "gameID": "201622",
+    "player": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "quarter2",
+    "notes": ""
+  },
+  {
+    "gameID": "201623",
+    "player": {
+      "id": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 3
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "quarter3",
+    "notes": ""
+  },
+  {
+    "gameID": "201624",
+    "player": {
+      "id": 8,
+      "nick": "James",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 2,
+      "nick": "CuntWopper",
+      "cupsLeft": 6
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "quarter4",
+    "notes": "Forfeit"
+  },
+  {
+    "gameID": "201625",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "semi1",
+    "notes": ""
+  },
+  {
+    "gameID": "201626",
+    "player": {
+      "id": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 2,
+      "nick": "CuntWopper",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "semi2",
+    "notes": ""
+  },
+  {
+    "gameID": "201627",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 5,
+      "nick": "Marc/Emma",
+      "cupsLeft": 0
+    },
+    "date": "2016",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 1,
+    "stage": "final",
+    "notes": "FINAL"
+  },
+  {
+    "gameID": "201701",
+    "player": {
+      "actorID": 11,
+      "nick": "Jordon",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 12,
+      "nick": "Chris",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201702",
+    "player": {
+      "actorID": 12,
+      "nick": "Chris",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201703",
+    "player": {
+      "actorID": 10,
+      "nick": "Jacko",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 11,
+      "nick": "Jordon",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201704",
+    "player": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 10,
+      "nick": "Jacko",
+      "cupsLeft": 3
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201705",
+    "player": {
+      "actorID": 11,
+      "nick": "Jordon",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 7,
+      "nick": "Aidan",
+      "cupsLeft": 2
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201706",
+    "player": {
+      "actorID": 10,
+      "nick": "Jacko",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 12,
+      "nick": "Chris",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201707",
+    "player": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 3
+    },
+    "challenger": {
+      "actorID": 9,
+      "nick": "Lewis",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201708",
+    "player": {
+      "actorID": 14,
+      "nick": "Luke",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 13,
+      "nick": "Will",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201709",
+    "player": {
+      "actorID": 14,
+      "nick": "Luke",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 9,
+      "nick": "Lewis",
+      "cupsLeft": 3
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201710",
+    "player": {
+      "actorID": 13,
+      "nick": "Will",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201711",
+    "player": {
+      "actorID": 9,
+      "nick": "Lewis",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 13,
+      "nick": "Will",
+      "cupsLeft": 2
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201712",
+    "player": {
+      "actorID": 1,
+      "nick": "MG",
+      "cupsLeft": 5
+    },
+    "challenger": {
+      "actorID": 14,
+      "nick": "Luke",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201713",
+    "player": {
+      "actorID": 2,
+      "nick": "Ryan",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "actorID": 15,
+      "nick": "Dayle",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group3",
+    "notes": ""
+  },
+  {
+    "gameID": "201714",
+    "player": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group3",
+    "notes": ""
+  },
+  {
+    "gameID": "201715",
+    "player": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 2,
+      "nick": "Ryan",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group3",
+    "notes": ""
+  },
+  {
+    "gameID": "201716",
+    "player": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 15,
+      "nick": "Dayle",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group3",
+    "notes": ""
+  },
+  {
+    "gameID": "201717",
+    "player": {
+      "actorID": 2,
+      "nick": "Ryan",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "actorID": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group3",
+    "notes": ""
+  },
+  {
+    "gameID": "201718",
+    "player": {
+      "actorID": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "actorID": 15,
+      "nick": "Dayle",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "group3",
+    "notes": ""
+  },
+  {
+    "gameID": "201719",
+    "player": {
+      "id": 12,
+      "nick": "Chris",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 1
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "quarter1",
+    "notes": ""
+  },
+  {
+    "gameID": "201720",
+    "player": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 3
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "quarter2",
+    "notes": ""
+  },
+  {
+    "gameID": "201721",
+    "player": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 6
+    },
+    "challenger": {
+      "id": 13,
+      "nick": "Will",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "quarter3",
+    "notes": "Forfeit"
+  },
+  {
+    "gameID": "201722",
+    "player": {
+      "id": 9,
+      "nick": "Lewis",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 10,
+      "nick": "Jacko",
+      "cupsLeft": 3
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "quarter4",
+    "notes": ""
+  },
+  {
+    "gameID": "201723",
+    "player": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 0
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "semi1",
+    "notes": ""
+  },
+  {
+    "gameID": "201724",
+    "player": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 10,
+      "nick": "Jacko",
+      "cupsLeft": 6
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "semi2",
+    "notes": "LOL, Jacko "
+  },
+  {
+    "gameID": "201725",
+    "player": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 10,
+      "nick": "Jacko",
+      "cupsLeft": 2
+    },
+    "date": "2017",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 2,
+    "stage": "final",
+    "notes": "FINAL"
+  },
+  {
+    "gameID": "201801",
+    "player": {
+      "id": 12,
+      "nick": "Chris",
+      "cupsLeft": 5
+    },
+    "challenger": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201802",
+    "player": {
+      "id": 13,
+      "nick": "Will",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "id": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201803",
+    "player": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 12,
+      "nick": "Chris",
+      "cupsLeft": 1
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201804",
+    "player": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 4
+    },
+    "challenger": {
+      "id": 13,
+      "nick": "Will",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201805",
+    "player": {
+      "id": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 1
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201806",
+    "player": {
+      "id": 12,
+      "nick": "Chris",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 13,
+      "nick": "Will",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201807",
+    "player": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 6,
+      "nick": "Paul",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201808",
+    "player": {
+      "id": 13,
+      "nick": "Will",
+      "cupsLeft": 5
+    },
+    "challenger": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201809",
+    "player": {
+      "id": 6,
+      "nick": "Paul",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "id": 12,
+      "nick": "Chris",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201810",
+    "player": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 5
+    },
+    "challenger": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group1",
+    "notes": ""
+  },
+  {
+    "gameID": "201811",
+    "player": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 11,
+      "nick": "Jordan",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201812",
+    "player": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201813",
+    "player": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 2
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201814",
+    "player": {
+      "id": 11,
+      "nick": "Jordan",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201815",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 1
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201816",
+    "player": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 1
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201817",
+    "player": {
+      "id": 11,
+      "nick": "Jordan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 5
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201818",
+    "player": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 2
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201819",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 6
+    },
+    "challenger": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": "Forfeit"
+  },
+  {
+    "gameID": "201820",
+    "player": {
+      "id": 11,
+      "nick": "Jordan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 1
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "group2",
+    "notes": ""
+  },
+  {
+    "gameID": "201821",
+    "player": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 4
+    },
+    "challenger": {
+      "id": 13,
+      "nick": "Will",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "quarter1",
+    "notes": ""
+  },
+  {
+    "gameID": "201822",
+    "player": {
+      "id": 2,
+      "nick": "Ryan",
+      "cupsLeft": 0
+    },
+    "challenger": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 2
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "quarter2",
+    "notes": ""
+  },
+  {
+    "gameID": "201823",
+    "player": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 6
+    },
+    "challenger": {
+      "id": 12,
+      "nick": "Chris",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "quarter3",
+    "notes": "Forfeit"
+  },
+  {
+    "gameID": "201824",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 1
+    },
+    "challenger": {
+      "id": 7,
+      "nick": "Aidan",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "quarter4",
+    "notes": ""
+  },
+  {
+    "gameID": "201825",
+    "player": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 4,
+      "nick": "MD",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "semi1",
+    "notes": ""
+  },
+  {
+    "gameID": "201826",
+    "player": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 6
+    },
+    "challenger": {
+      "id": 3,
+      "nick": "Edd",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "semi2",
+    "notes": "Forfeit"
+  },
+  {
+    "gameID": "201827",
+    "player": {
+      "id": 16,
+      "nick": "Sam",
+      "cupsLeft": 2
+    },
+    "challenger": {
+      "id": 1,
+      "nick": "MG",
+      "cupsLeft": 0
+    },
+    "date": "2018",
+    "venue": "Kingfisher Park",
+    "tournament": true,
+    "tournament_id": 3,
+    "stage": "final",
+    "notes": "FINAL"
+  }
+]

@@ -1,0 +1,82 @@
+@import "themeVariables.scss";
+/*random sakura colours: #eda0cd; #c2d7e9; #923;#857453*/
+body{
+  margin: 0;
+  overflow-y: scroll;
+}
+.App{
+  font-family: sans-serif;
+  @supports (display: grid){
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "details details details details details details"
+      "body body body body body body"
+      "bar bar bar bar bar bar"
+      "nav nav nav nav nav nav";
+  }
+}
+.main{
+  @supports (display: grid){
+    grid-area: body;
+  }
+  padding: 0.5em;
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+.underline {
+  text-decoration: underline;
+}
+.house-rules {
+  text-align: left;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.venue-section {
+  border-style: dashed;
+  border-width: 1px;
+  margin: 0.5rem;
+  width: 300px;
+  &:hover{
+    background-color: rgb(144, 78, 230);
+    box-shadow: 0.1em 0.1em 0.1em 0.1em rgba(0, 0, 0, 0.4);
+  }
+}
+@media (min-width: 40em) {
+  .App{
+    @supports (display: grid){
+      grid-template-areas: 
+        "nav nav nav nav details details"
+        "bar body body body body body"
+        "bar body body body body body"
+        "bar body body body body body";
+    }
+  }
+  .details{
+    flex-direction: column;
+  }
+}
+@media (min-width: 48em) {
+  .App{
+    @supports (display: grid){
+      grid-template-areas: 
+        "nav nav nav nav nav details"
+        "bar body body body body details"
+        "bar body body body body details"
+        "bar body body body body details";
+    }
+  }
+}
+
+.body-sak {
+  background-color: $sak-bg;
+}
+.body-vb {
+  background-color: $vb-bg;
+}
